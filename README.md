@@ -1,4 +1,4 @@
-# WebDAV网盘监控工具
+# W2A, WebDAV To Aria2, WebDAV网盘监控工具
 
 一个简洁高效的WebDAV网盘监控工具，支持浏览WebDAV网盘文件并批量下载到Aria2。
 
