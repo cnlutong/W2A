@@ -1,3 +1,9 @@
+# Docker相关文件
+.env
+Dockerfile
+docker-compose.yml
+.dockerignore
+
 # Python相关
 __pycache__/
 *.py[cod]
@@ -25,10 +31,6 @@ venv/
 env/
 ENV/
 
-# Docker相关
-.env
-data/
-
 # IDE
 .vscode/
 .idea/
@@ -42,6 +44,9 @@ logs/
 # 临时文件
 .tmp/
 temp/
+
+# 数据目录
+data/
 
 # 操作系统
 .DS_Store
