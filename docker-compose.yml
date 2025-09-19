@@ -4,4 +4,4 @@ services:
   webdav-monitor:
     build: .
     ports:
-      - "8001:8001"
+      - "18000:8000"
